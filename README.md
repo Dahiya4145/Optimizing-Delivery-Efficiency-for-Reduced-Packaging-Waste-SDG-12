@@ -18,7 +18,8 @@ This project focuses on optimizing delivery processes to reduce packaging waste,
 Ensure you have the following installed:
 - Python 3.8 or above
 - PowerBI for dashboard visualization
-- Necessary Python libraries 
+- Necessary Python libraries
+- you may use Google Colab 
 
 ## Installation
 1. Clone this repository:
