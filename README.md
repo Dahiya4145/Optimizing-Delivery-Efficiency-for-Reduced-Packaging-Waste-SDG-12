@@ -31,10 +31,12 @@ Ensure you have the following installed:
    ```
 or you can use Google Colab
 
+## PowerBI Deskboard
+For PowerBI Deskboard file download file and open in PowerBI Deskboard Application for best view and understanding of the data. 
+
 ## Usage
 1. Use the PowerBI dashboard for performance tracking and visualizing key metrics.
 2. Apply suggested optimizations to reduce waste and improve delivery efficiency.
-
 
 ## Contributing
 We welcome contributions! Feel free to fork this repository, make improvements, and submit a pull request.
